@@ -51,3 +51,8 @@ The chatbot uses **TF-IDF vectorization** and **Cosine Similarity** to match use
 git clone https://github.com/Rachana-Shirke/CodeAlpha_FAQ_Chatbot.git
 cd CodeAlpha_FAQ_Chatbot
 
+## 📸 Screenshots
+
+Below is a screenshot of the working chatbot UI:
+
+![Aviation FAQ Chatbot UI](screenshots/chatbot_ui.png)
