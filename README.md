@@ -2,7 +2,7 @@
 
 An AI-powered FAQ Chatbot designed to answer aviation-related queries such as airport rules, flight services, and passenger guidelines using Natural Language Processing (NLP).
 
-This project was developed as part of the **CodeAlpha Artificial Intelligence Internship**.
+This project was developed as part of the ** Artificial Intelligence Internship**.
 
 ---
 
